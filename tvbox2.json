@@ -5,7 +5,7 @@
         {
             "name": "DD",
             "type": 0,
-            "url": "https://ghp.ci/raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/tv.txt",
+            "url": "https://github.moeyy.xyz/raw.githubusercontent.com/Dong-learn9/AutoTV/master/output/tv.txt",
             "playerType": 1,
             "epg": "https://epg.v1.mk/json?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -29,7 +29,7 @@
         {
             "name": "LF",
             "type": 0,
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
             "playerType": 1,
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
